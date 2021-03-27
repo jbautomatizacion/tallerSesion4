@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.whenDoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-27T15:30:09" hostname="DESKTOP-3B999PU" time="20.652">
+  <properties/>
+  <testcase name="createNewNote" classname="cleanTest.whenDoTest" time="20.652"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar. 27, 2021 10:30:18 A. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

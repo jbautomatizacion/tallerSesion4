@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Taller02" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-13T04:40:47" hostname="DESKTOP-3B999PU" time="16.986">
-  <properties/>
-  <testcase name="agregarTarea" classname="Taller02" time="16.986"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[mar. 12, 2021 11:40:54 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
-INFO: Detected dialect: W3C
-]]></system-err>
-</testsuite>

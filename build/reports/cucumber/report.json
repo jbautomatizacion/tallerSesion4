@@ -1,0 +1,89 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-03-27T17:25:01.194Z",
+        "line": 4,
+        "name": "Como usuario del aplicativo When.Do",
+        "description": "            Quiero poder agregar una tarea\n            Y tambien poder eliminarla\n            Para poder llevar un registro de actividades",
+        "id": "when.do;como-usuario-del-aplicativo-when.do",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5983200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "yo tengo abierto el aplicativo When.Do",
+            "match": {
+              "location": "runner.MyStepdefs.yoTengoAbiertoElAplicativoWhenDo()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10798889300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "yo agrego una tarea",
+            "match": {
+              "arguments": [
+                {
+                  "val": "agrego",
+                  "offset": 3
+                }
+              ],
+              "location": "runner.MyStepdefs.yoAgregoUnaTarea(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3623027100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "yo elimino una tarea",
+            "match": {
+              "arguments": [
+                {
+                  "val": "elimino",
+                  "offset": 3
+                }
+              ],
+              "location": "runner.MyStepdefs.yoAgregoUnaTarea(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 658969400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "el resultado no debe mostrar ninguna tarea existente",
+            "match": {
+              "location": "runner.MyStepdefs.elResultadoNoDebeMostrarNingunaTareaExistente()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@TALLER03"
+          }
+        ]
+      }
+    ],
+    "name": "When.Do",
+    "description": "",
+    "id": "when.do",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Taller03.feature",
+    "tags": []
+  }
+]

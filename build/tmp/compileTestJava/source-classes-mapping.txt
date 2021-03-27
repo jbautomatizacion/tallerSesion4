@@ -1,4 +1,34 @@
+controls/Label.java
+ controls.Label
+factoryDevices/IDevice.java
+ factoryDevices.IDevice
+cleanTest/whenDoTest.java
+ cleanTest.whenDoTest
+factoryDevices/FactoryDevices.java
+ factoryDevices.FactoryDevices
+singletonSession/Session.java
+ singletonSession.Session
+whenDo/MainScreen.java
+ whenDo.MainScreen
+controls/ControlAppium.java
+ controls.ControlAppium
+whenDo/NewNotes.java
+ whenDo.NewNotes
+controls/Button.java
+ controls.Button
+factoryDevices/IOS.java
+ factoryDevices.IOS
+factoryDevices/WindowsPhone.java
+ factoryDevices.WindowsPhone
+runner/MyStepdefs.java
+ runner.MyStepdefs
 Taller02.java
  Taller02
-Runner/MyStepdefs.java
- Runner.MyStepdefs
+controls/TextBox.java
+ controls.TextBox
+factoryDevices/Android.java
+ factoryDevices.Android
+factoryDevices/CloudDevice.java
+ factoryDevices.CloudDevice
+helpers/LocalReport.java
+ helpers.LocalReport
